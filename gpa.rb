@@ -31,4 +31,4 @@ end
 
 gpa = grade_total/number_of_classes
 
-puts "Your GPA is: " + gpa.to_s
+puts "Your Grade Point Average is: " + gpa.to_s
